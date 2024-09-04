@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
     "C_Cpp.default.compilerPath": "e:\\MinGW\\include\\stdio.h",
+=======
+>>>>>>> 605f83787f98ce26fb635ab76b79fdebc069b543
     "pieces.cloudCapabilities": "Blended",
     "pieces.telemetry": true
 }
