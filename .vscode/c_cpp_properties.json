@@ -3,19 +3,17 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                "D:\\installedPrograms\\include",
-                "D:\\installedPrograms\\lib"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
+            "compilerPath": "D:\\installedPrograms\\mingw\\bin\\gcc.exe",
             "cStandard": "c11",
             "cppStandard": "gnu++14",
-            "intelliSenseMode": "gcc-x64",
-            "compilerPath": "D:\\installedPrograms\\bin\\gcc.exe"
+            "intelliSenseMode": "windows-gcc-x86"
         }
     ],
     "version": 4

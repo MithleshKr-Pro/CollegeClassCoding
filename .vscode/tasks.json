@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc.exe build active file",
-            "command": "E:\\Mith_Documents\\MyPrograms\\bin\\gcc.exe",
+            "command": "D:\\installedPrograms\\mingw\\bin\\gcc.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
