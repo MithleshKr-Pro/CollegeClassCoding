@@ -10,6 +10,6 @@ int main(){
     scanf("%f",&c);
     s=(a+b+c)/2;
     Area=sqrt((s)*(s-a)*(s-b)*(s-c));
-    printf("Required Area of Triangle = %f",Area);
+    printf("\aRequired Area of Triangle = %f",Area);
     return 0;
 }
