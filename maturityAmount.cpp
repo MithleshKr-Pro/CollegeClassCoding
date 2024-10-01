@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <math.h>
+#include <iostream>
+#include <conio.h>
+
 int main(){
     float p,t,r=5,i,mat_Amount;
     printf("Principal Amount = ");
