@@ -11,6 +11,6 @@ int main(){
     scanf("%f",&t);
     i=(p*r*t)/100;
     mat_Amount=i+p;
-    printf("\a\nMaturity Amount = %f",mat_Amount);
+    printf("\nMaturity Amount = %f",mat_Amount);
     return 0;
 }
